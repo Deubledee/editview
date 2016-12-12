@@ -10,7 +10,7 @@ This project contains the following main files :
 
 - `package.json` - Points to the app's main file and lists its details and dependencies.
 - `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `public/index.html` - A web page to render. This is the app's **renderer process**.
+- `public/index.html` - Editview gui.
 - `public/js/main.js` - Starts the Monaco enviroment. Contains the main editor methods. Typescript enviroment **Monaco Editor**.
 - `public/js/placer.js` - Aplication engine. Contains the Aplication functions **Monaco Editor**.
 - `public/js/Menu&reloads.js` - Contains the menus controler and the reload handler **Monaco Editor**.
@@ -21,7 +21,8 @@ This project contains the following main files :
 - `public/css/cyborg/bootstrap.css` - Css bootstrap library **Monaco Editor**.
 - `public/assets/extetionimg` - contains the file extetion imgs and the logo img **Monaco Editor**.
 - `public/assets/help/help.html` - contains the help file **Monaco Editor**.
-
+**build links**
+https://drive.google.com/drive/folders/0B3ozdkEgZkmkZmtQdHBEdWduZEk?usp=sharing
 **sourse code instalation**
 -  install node.js from "https://nodejs.org"
 -  cd into main folder and run npm install
