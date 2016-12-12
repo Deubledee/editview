@@ -9,7 +9,7 @@ This is a minimal Electron application based on Code Visual Studio
 This project contains the following main files :
 
 - `package.json` - Points to the app's main file and lists its details and dependencies.
-- `main.js` - Starts the app and creates a browser window to render HTML. This is the app's**main process**.
+- `main.js` - Starts the app and creates a browser window to render **public/index.html**.
 - `public/index.html` - Editview gui.
 - `public/js/main.js` - Starts the Monaco enviroment. Contains the main editor methods. Typescript enviroment **Monaco Editor**.
 - `public/js/placer.js` - Aplication engine. Contains the Aplication functions **Monaco Editor**.
