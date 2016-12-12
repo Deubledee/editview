@@ -22,6 +22,12 @@ This project contains the following main files :
 - `public/assets/extetionimg` - contains the file extetion imgs and the logo img **Monaco Editor**.
 - `public/assets/help/help.html` - contains the help file **Monaco Editor**.
 
+**sourse code instalation**
+-  install node.js from "https://nodejs.org"
+-  cd into main folder and run npm install
+-  run npm start to start the aplication
+-  you can follow these tutorials to buiil an package for Linux Debian
+   https://www.youtube.com/watch?v=dz5SnmBzBXc&t=9s, https://github.com/unindented/electron-installer-debian
 
 **Author**
 Diogo Dias tm.diogo.dias@gmail.com
