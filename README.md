@@ -21,9 +21,9 @@ This project contains the following main files :
 - `public/css/cyborg/bootstrap.css` - Css bootstrap library **Monaco Editor**.
 - `public/assets/extetionimg` - contains the file extetion imgs and the logo img **Monaco Editor**.
 - `public/assets/help/help.html` - contains the help file **Monaco Editor**.
-- **build links**
+- **Binarys links**
 - https://drive.google.com/drive/folders/0B3ozdkEgZkmkZmtQdHBEdWduZEk?usp=sharing
-- **sourse code instalation**
+- **Sourse code instalation**
 -  install node.js from "https://nodejs.org"
 -  cd into main folder and run npm install
 -  run npm start to start the aplication
