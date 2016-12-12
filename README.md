@@ -26,8 +26,9 @@ This project contains the following main files :
 - **Sourse code instalation**
 - **install** node.js from "https://nodejs.org"
 -  **Open** main folder and run npm install
+-  **run** npm install electron
 -  **run** 'npm start', to start the aplication
-- **you can follow these tutorials to build a package for Linux Debian or MacOSx**
+- **you can follow these tutorials to build a package for Linux Debian or MacOsX**
    https://www.youtube.com/watch?v=dz5SnmBzBXc&t=9s, https://github.com/unindented/electron-installer-debian
 
 **Author**
