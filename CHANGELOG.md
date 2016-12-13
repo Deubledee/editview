@@ -7,9 +7,9 @@
 - **Fixed** - Sidebar resizing.
 - **Fixed** - Extention area displacement on sidebasr reiszing.
 
-### To Fix
+#### To Fix
 - **file opening on directory pane after first load**
 
 - **content editable to rename and create new files and folders**
 
-# review 01# 13/12/2016
+##### review 01# 13/12/2016
