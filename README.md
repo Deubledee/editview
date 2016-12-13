@@ -2,7 +2,7 @@
 
 **Experimental code editor**
 
-This is a minimal Electron application based on Code Visual Studio
+This is an Electron application based on Code Visual Studio Monaco Editor
 
 **Use this app [on your own reponsability]**
 
